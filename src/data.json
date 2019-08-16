@@ -1,0 +1,145 @@
+[
+    {
+        "id": 0,
+        "imageUrl": "https://images.pexels.com/photos/1080721/pexels-photo-1080721.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "name": "име-на-продукта-1",
+        "fullDescription": "пълно-описание-1",
+        "price": 300,
+        "type": "Кухня",
+        "additionalPictures": [
+            "https://cdn.pixabay.com/photo/2016/12/26/17/28/food-1932466_960_720.jpg",
+            "https://image.shutterstock.com/z/stock-photo-closeup-on-table-with-vegetables-in-kitchen-251214403.jpg",
+            "https://image.shutterstock.com/image-photo/chef-hotel-restaurant-kitchen-cooking-450w-524710114.jpg"
+        ]
+    },
+    {
+        "id": 1,
+        "imageUrl": "https://images.pexels.com/photos/105934/pexels-photo-105934.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "name": "име-на-продукта-2",
+        "fullDescription": "пълно-описание-2",
+        "price": 300,
+        "type": "Баня",
+        "additionalPictures": [
+            "https://cdn.pixabay.com/photo/2015/03/26/10/01/bathroom-690774_960_720.jpg",
+            "https://image.shutterstock.com/image-photo/clean-fresh-bathroom-natural-light-450w-559170985.jpg",
+            "https://image.shutterstock.com/image-photo/small-elegant-half-bathroom-450w-433440118.jpg"
+        ]
+    },
+    {
+        "id": 2,
+        "imageUrl": "https://images.pexels.com/photos/279648/pexels-photo-279648.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "name": "име-на-продукта-3",
+        "fullDescription": "пълно-описание-3",
+        "price": 1025,
+        "type": "Кухня",
+        "additionalPictures": [
+            "https://cdn.pixabay.com/photo/2017/08/01/12/43/kitchen-2565105_960_720.jpg",
+            "https://cdn.pixabay.com/photo/2014/11/24/14/39/potato-544073_960_720.jpg",
+            "https://image.shutterstock.com/image-photo/boiled-new-potatoes-seasoned-dill-450w-463388846.jpg"
+        ]
+    },
+    {
+        "id": 3,
+        "imageUrl": "https://images.pexels.com/photos/1358900/pexels-photo-1358900.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "name": "име-на-продукта-4",
+        "fullDescription": "пълно-описание-4",
+        "price": 512,
+        "type": "Кухня",
+        "additionalPictures": [
+            "https://cdn.pixabay.com/photo/2015/10/02/15/59/olive-oil-968657_960_720.jpg",
+            "https://cdn.pixabay.com/photo/2016/08/15/20/29/olive-oil-1596417_960_720.jpg",
+            "https://cdn.pixabay.com/photo/2015/10/26/07/21/soup-1006694_960_720.jpg"
+        ]
+    },
+    {
+        "id": 4,
+        "imageUrl": "https://images.pexels.com/photos/349749/kitchen-stove-sink-kitchen-counter-349749.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "name": "име-на-продукта-5",
+        "fullDescription": "пълно-описание-5",
+        "price": 258,
+        "type": "Кухня",
+        "additionalPictures": [
+            "https://cdn.pixabay.com/photo/2017/03/25/23/32/kitchen-2174593__340.jpg",
+            "https://cdn.pixabay.com/photo/2014/11/24/14/35/pot-544071__340.jpg",
+            "https://cdn.pixabay.com/photo/2016/11/19/12/37/food-1839061__340.jpg"
+        ]
+    },
+    {
+        "id": 5,
+        "imageUrl": "https://cdn.pixabay.com/photo/2014/05/17/18/03/lobby-346426_960_720.jpg",
+        "name": "име-на-продукта-6",
+        "fullDescription": "пълно-описание-6",
+        "price": 456,
+        "type": "Хол",
+        "additionalPictures": [
+            "https://image.shutterstock.com/image-photo/contemporary-living-room-sofa-450w-700341973.jpg",
+            "https://image.shutterstock.com/image-illustration/interior-living-room-3d-illustration-450w-1106966948.jpg",
+            "https://image.shutterstock.com/image-illustration/interior-living-room-3d-illustration-450w-1214541079.jpg"
+        ]
+    },
+    {
+        "id": 6,
+        "imageUrl": "https://cdn.pixabay.com/photo/2014/02/27/13/13/livingroom-275841_960_720.jpg",
+        "name": "име-на-продукта-7",
+        "fullDescription": "пълно-описание-7",
+        "price": 213,
+        "type": "Хол",
+        "additionalPictures": [
+            "https://cdn.pixabay.com/photo/2014/05/21/14/54/livingroom-349688_960_720.jpg",
+            "https://cdn.pixabay.com/photo/2018/08/10/16/54/couch-3597235_960_720.jpg",
+            "https://cdn.pixabay.com/photo/2014/05/26/13/03/livingroom-354493_960_720.jpg"
+        ]
+    },
+    {
+        "id": 7,
+        "imageUrl": "https://images.pexels.com/photos/210687/pexels-photo-210687.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "name": "име-на-продукта-8",
+        "fullDescription": "пълно-описание-8",
+        "price": 321,
+        "type": "Хол",
+        "additionalPictures": [
+            "https://as1.ftcdn.net/jpg/00/47/64/54/500_F_47645466_545cAdleZu0OhW8rACqzHfspZQ10jVpe.jpg",
+            "https://as2.ftcdn.net/jpg/00/47/64/45/500_F_47644584_uSa6flHgeY7kRY05mhC4S7TwSTD477ar.jpg",
+            "https://as2.ftcdn.net/jpg/00/80/56/11/500_F_80561134_INDVhbDWA0jghMw50qqtXeCamOn1QC6Z.jpg"
+        ]
+    },
+    {
+        "id": 8,
+        "imageUrl": "https://images.pexels.com/photos/273843/pexels-photo-273843.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "name": "име-на-продукта-9",
+        "fullDescription": "пълно-описание-9",
+        "price": 123,
+        "type": "Кухня",
+        "additionalPictures": [
+            "https://images.pexels.com/photos/94865/pexels-photo-94865.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "https://images.pexels.com/photos/1504025/pexels-photo-1504025.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "https://images.pexels.com/photos/533157/pexels-photo-533157.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+        ]
+    },
+    {
+        "id": 9,
+        "imageUrl": "https://images.pexels.com/photos/1571461/pexels-photo-1571461.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "name": "име-на-продукта-10",
+        "fullDescription": "пълно-описание-10",
+        "price": 50,
+        "type": "Баня",
+        "additionalPictures": [
+            "https://images.pexels.com/photos/534179/pexels-photo-534179.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "https://images.pexels.com/photos/1457847/pexels-photo-1457847.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "https://images.pexels.com/photos/342800/pexels-photo-342800.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+        ]
+    },
+    {
+        "id": 10,
+        "imageUrl": "https://images.pexels.com/photos/6256/water-kitchen-black-design.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "name": "име-на-продукта-11",
+        "fullDescription": "пълно-описание-11",
+        "price": 158,
+        "type": "Кухня",
+        "additionalPictures": [
+            "https://images.pexels.com/photos/1608165/pexels-photo-1608165.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "https://images.pexels.com/photos/1454805/pexels-photo-1454805.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "https://images.pexels.com/photos/1380019/pexels-photo-1380019.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+        ]
+    }
+]
